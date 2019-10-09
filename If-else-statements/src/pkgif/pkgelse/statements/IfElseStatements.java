@@ -1,21 +1,73 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package pkgif.pkgelse.statements;
+
+// Import Scanner Here
+
+
 
 /**
  *
- * @author mlarrubia
+ * Name:
+ * Period:
+ * Project Name:
+ * 
+ * 
  */
 public class IfElseStatements {
 
-    /**
-     * @param args the command line arguments
-     */
+    // Create Scanner Object here So it may be used in all methods
+    
+    
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Happy Coding!
+        
+        
+        //Invoke the methods here 
+        
+        
+        
+    }
+    
+    
+    public static void question1(){
+        
+    }
+    
+    public static void question2(){
+        
+    }
+    
+    public static void question3(){
+        
+    }
+    
+    public static void question4(){
+        
+    }
+    
+    public static void question5(){
+        
+    }
+    
+    public static void question6(){
+        
+    }
+    
+    public static void question7(){
+        
+    }
+    
+    public static void question8(){
+        
+    }
+    
+    public static void question9(){
+        
+    }
+    
+    public static void question10(){
+        
     }
     
 }
